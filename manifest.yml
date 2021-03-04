@@ -4,7 +4,7 @@ applications:
     routes:
     - route: pal-tracker-vijaya-datla.apps.evans.pal.pivotal.io
     env:
-      WELCOME_MESSAGE: Hello from review environment2
+      WELCOME_MESSAGE: Hello from review environment
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
 
     services:
